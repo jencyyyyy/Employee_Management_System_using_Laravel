@@ -1,7 +1,4 @@
 # Employee Information system
 
 Create an Employee Information System using the Laravel web framework.
-
-# laravel-p
-# main-code
-# main-code
+This is the base code for implementing the Employee Management system in Laravel
